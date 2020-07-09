@@ -6253,6 +6253,7 @@
 ||coronavirus-soforthilfe.clickfunnels.com^
 ||corover.mobi^
 ||corp.com^
+||corp.sts.microsoft.com^
 ||corp.unity3d.com^
 ||corpext.msitadfs.glbdns2.microsoft.com^
 ||corporate.intercom.io^
@@ -8040,6 +8041,7 @@
 ||dysn.org^
 ||dz1vmszs6rjp8.cloudfront.net^
 ||dzbh.cn^
+||dzc-metrics.mzstatic.com^
 ||dzoper.com^
 ||dzrs3yuexz.com^
 ||dzubavstal.com^
@@ -12964,6 +12966,7 @@
 ||insights.creativeallies.com^
 ||insights.dyn.archdaily.com^
 ||insights.integralads.com^
+||insights.samsung.com^
 ||insights.sustainablebrands.com^
 ||insights.vip.aetnd.com^
 ||insikayethonga.com^
@@ -16395,6 +16398,7 @@
 ||metrics.hibernian.ie^
 ||metrics.interweave.com^
 ||metrics.motortrend.com^
+||metrics.mzstatic.com^
 ||metrics.nearpod.com^
 ||metrics.pagerduty.com^
 ||metrics.phonegap.com^
@@ -18311,6 +18315,7 @@
 ||nmbt4t9l.blog.163.com^
 ||nmdijital.com^
 ||nmentthoutintellin.info^
+||nmetrics.samsung.com^
 ||nmgassets.com^
 ||nmia.com^
 ||nmxliveads.akamaized.net^
@@ -18793,6 +18798,7 @@
 ||oneblackjocker.online^
 ||onechance.leadpages.co^
 ||oneclick.net^
+||onecollector.cloudapp.aria.akadns.net^
 ||onecompass.com^
 ||onedownloadnewapps.com^
 ||onedrive.kontra.events^
@@ -23943,6 +23949,7 @@
 ||setssun.com^
 ||setting.adzcore.com^
 ||settingsppup.com^
+||settings-win.data.microsoft.com^
 ||settish.com^
 ||settleship.info^
 ||settleships.com^
