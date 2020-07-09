@@ -8780,7 +8780,6 @@ corover.mobi
 corp.aol.com
 corp.ign.com
 corp.kaltura.com
-corp.sts.microsoft.com
 corporate.target.com
 corporationwiki.com
 correiodopovo.com.br
@@ -9890,7 +9889,6 @@ data.gov
 data.iana.org
 data.linkedin.com
 data.live.126.net
-data.mistat.xiaomi.com
 data.services.jetbrains.com
 data.tradingview.com
 datacamp.com
@@ -10420,8 +10418,6 @@ device.auth.xboxlive.com
 device-api.indigitall.com
 deviceapi.micloud.xiaomi.net
 device-messaging-na.amazon.com
-device-metrics-us.amazon.com
-device-metrics-us-2.amazon.com
 device-metrics-us-ud.amazon.com
 deviceportal.nettvservices.com
 device-provisioning.googleapis.com
@@ -11634,7 +11630,6 @@ dz4invest.com
 dz4link.com
 dz6rzbt3lkau8.cloudfront.net
 dzcdn.net
-dzc-metrics.mzstatic.com
 dziennik.pl
 dzienniklodzki.pl
 dziennikpolski24.pl
@@ -18710,7 +18705,6 @@ insightdatascience.com
 insights.eu.newrelic.com
 insights.hotjar.com
 insights.newrelic.com
-insights.samsung.com
 insights.sei.cmu.edu
 insigniaproducts.com
 insinuator.net
@@ -23490,7 +23484,6 @@ metrics.aem.playstation.com
 metrics.brightcove.com
 metrics.claspws.tv
 metrics.hackerrank.com
-metrics.mzstatic.com
 metrics.samsung.com
 metrics.torproject.org
 metrics-proxy.medallia.com
@@ -26033,7 +26026,6 @@ nme.com
 nmedia.daum.net
 nmedia.discordapp.net
 nmedia.r18.com
-nmetrics.samsung.com
 nmetrics.torproject.org
 nmicrosoftedgewelcome.microsoft.com
 nmikrotik.co.id
@@ -27127,7 +27119,6 @@ oneallcdn.com
 oneangrygamer.net
 onebox.huawei.com
 oneclient.sfx.ms
-onecollector.cloudapp.aria.akadns.net
 onedata.es
 oneddl.org
 onedio.com
@@ -32478,7 +32469,6 @@ settings.crisp.chat
 settings.data.microsoft.com
 settings.shuax.com
 settings-ssl.xboxlive.com
-settings-win.data.microsoft.com
 setup.airtelbroadband.in
 setup.centurylink.com
 setup.stat.v.xunlei.com
