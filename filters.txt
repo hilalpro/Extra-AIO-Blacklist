@@ -4996,7 +4996,6 @@
 ||cdn.contalyze.com^
 ||cdn.contentsitesrv.com^
 ||cdn.diply.com^
-||cdn.ecosia.org^
 ||cdn.edgedatg.com^
 ||cdn.exitmist.com^
 ||cdn.fbs.com^

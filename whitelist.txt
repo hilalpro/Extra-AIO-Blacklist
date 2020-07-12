@@ -10418,7 +10418,6 @@ device.auth.xboxlive.com
 device-api.indigitall.com
 deviceapi.micloud.xiaomi.net
 device-messaging-na.amazon.com
-device-metrics-us-ud.amazon.com
 deviceportal.nettvservices.com
 device-provisioning.googleapis.com
 devices.netflix.com
@@ -41834,3 +41833,5 @@ izatcloud.net
 xtracloud.net
 gpsonextra.net
 time.xtracloud.net
+secure.eloqua.com
+cdn.ecosia.org
