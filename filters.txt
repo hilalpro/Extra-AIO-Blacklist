@@ -18549,7 +18549,6 @@
 ||o.go2yd.com^
 ||o.ibotta.com^
 ||o.joinhoney.com^
-||o.ss2.us^
 ||o.xoxknct.com^
 ||o1.email.optimizely.com^
 ||o10.ck.n.convertkit.com^
@@ -22557,7 +22556,6 @@
 ||s.publico.pt^
 ||s.shaowenhao.top^
 ||s.shopify.com^
-||s.ss2.us^
 ||s.update.dailymotion.com^
 ||s0.hao123img.com^
 ||s01.yapfiles.ru^
