@@ -11016,6 +11016,7 @@
 ||googlescan.ru^
 ||googlesearch.me^
 ||googleservicesafebrowsing.com^
+||googlesyndication.com^
 ||googletagmanager.com^
 ||googletagservices.com^
 ||googletraveladservices.com^
