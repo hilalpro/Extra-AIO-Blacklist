@@ -29659,6 +29659,7 @@
 ||woxx.xyz^
 ||woyeyaolu.com^
 ||wp1169832.server-he.de^
+||wpad.lan^
 ||wpadsx.com^
 ||wpapi.adwised.com^
 ||wpbeaches.com^
