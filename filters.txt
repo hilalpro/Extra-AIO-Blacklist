@@ -4423,11 +4423,7 @@
 ||bss.pandora.xiaomi.com^
 ||bs-self.s3.amazonaws.com^
 ||bstlnk.com^
-||bt.t-ru.org^
 ||bt.xitongmonitor.com^
-||bt2.t-ru.org^
-||bt3.t-ru.org^
-||bt4.t-ru.org^
 ||btagmedia.com^
 ||btcbuffet.com^
 ||btcs.yahoo.co.jp^
@@ -9090,7 +9086,6 @@
 ||eziobincoletto.com^
 ||ezloginnow.com^
 ||ezmetrics.clickfunnels.com^
-||ezoic.net^
 ||ezpdfconvert.com^
 ||ezpopups.com^
 ||ezpush.me^

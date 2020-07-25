@@ -41838,3 +41838,10 @@ s.ss2.us
 o.ss2.us
 ss2.us
 s0.2mdn.net
+en.akinator.com
+ezoic.net
+akinator.com
+bt.t-ru.org
+bt2.t-ru.org
+bt3.t-ru.org
+bt4.t-ru.org
