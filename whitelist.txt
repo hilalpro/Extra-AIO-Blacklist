@@ -1030,7 +1030,6 @@ aargauerzeitung.ch
 aaroads.com
 aarp.org
 aastocks.com
-aax-us-east-test4.amazon-adsystem.com
 ab.com.au
 ab.demdex.net
 ab.is.fi
@@ -41392,3 +41391,7 @@ xtracloud.net
 z-p3-api.facebook.com
 z-p3-scontent.xx.fbcdn.net
 z-p3-sonar.fdar1-1.fna.fbcdn.net
+cdn1.hola.org
+cdn2.hola.org
+cdn3.hola.org
+cdn4.hola.org
