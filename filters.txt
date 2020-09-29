@@ -19,7 +19,6 @@
 @@||ada.support^
 @@||addevent.com^
 @@||addlnk.com^
-@@||adraker-dev.azureedge.net^
 @@||adshort.co^
 @@||adsp.xunlei.com^
 @@||adsrt.com^
@@ -47,7 +46,6 @@
 @@||api.pinterest.com^
 @@||api.playgendary.com^
 @@||api.revenuecat.com^
-@@||api.skimlinks.mgr.consensu.org^
 @@||api.uca.cloud.unity3d.com^
 @@||api.us.hismarttv.com^
 @@||api.xiaomi.com^
@@ -72,8 +70,6 @@
 @@||auditude.com^
 @@||autocentre.ua^
 @@||az19942.vo.msecnd.net^
-@@||az439107.vo.msecnd.net^
-@@||az815563.vo.msecnd.net^
 @@||azabu-u.ac.jp^
 @@||badongo.com^
 @@||badoo.com^
@@ -94,7 +90,6 @@
 @@||blog.udn.com^
 @@||blogher.com^
 @@||blogtopsites.com^
-@@||bnqt.com^
 @@||bolt.dropbox.com^
 @@||bonanza.com^
 @@||bravia.dl.playstation.net^
@@ -111,7 +106,6 @@
 @@||cdn.optimizely.com^
 @@||cdn.transifex.com^
 @@||cdn3.optimizely.com^
-@@||cdn4.hola.org^
 @@||cellfire.com^
 @@||cf.c.ooyala.com^
 @@||chango.ca^
@@ -125,7 +119,6 @@
 @@||clashdaily.com^
 @@||clck.ru^
 @@||clickfrog.ru^
-@@||clicktime.symantec.com^
 @@||clientstream.launchdarkly.com^
 @@||clk.sh^
 @@||cmp.nextday.media^
@@ -185,7 +178,6 @@
 @@||eepurl.com^
 @@||emarsys.net^
 @@||emptyloop.com^
-@@||entireweb.com^
 @@||envybox.io^
 @@||ereg.adobe.com^
 @@||esputnik.com^
@@ -209,13 +201,11 @@
 @@||financial.org^
 @@||financialcontent.com^
 @@||find.api.micloud.xiaomi.net^
-@@||findwide.com^
 @@||fkp.samsungcloudsolution.com^
 @@||fls-eu.amazon.com^
 @@||fls-eu.amazon.de^
 @@||flux.com^
 @@||forester.a2z.com^
-@@||freeadultcomix.com^
 @@||freenom.link^
 @@||ftp.drivehq.com^
 @@||full.pr0gramm.com^
@@ -228,7 +218,6 @@
 @@||geomobileservices-pa.googleapis.com^
 @@||gestyy.com^
 @@||getsatisfaction.com^
-@@||getwebbar.com^
 @@||gfe.nvidia.com^
 @@||gfk.com^
 @@||gigya.com^
@@ -268,7 +257,6 @@
 @@||images.dwell.com^
 @@||images.nvidiagrid.net^
 @@||imgadult.com^
-@@||imgrock.net^
 @@||in.appcenter.ms^
 @@||indiamart.com^
 @@||informz.net^
@@ -290,14 +278,12 @@
 @@||js.sohu.com^
 @@||js.t.sinajs.cn^
 @@||js-agent.newrelic.com^
-@@||k50.ru^
 @@||katcr.to^
 @@||kaufda.de^
 @@||keywordspy.com^
 @@||kijiji.com^
 @@||king.com^
 @@||korfo.org^
-@@||kuaibao.qq.com^
 @@||lbs.pandora.xiaomi.com^
 @@||lewrockwell.com^
 @@||licenses.adobe.com^
@@ -383,7 +369,6 @@
 @@||otnprd8.samsungcloudsolution.net^
 @@||otnprd9.samsungcloudsolution.net^
 @@||p0.com^
-@@||parall.ax^
 @@||paruvendu.fr^
 @@||pch.com^
 @@||pdfcomplete.com^
@@ -434,7 +419,6 @@
 @@||router.bittorrent.com^
 @@||rs6.net^
 @@||rss.drecom.jp^
-@@||rtb.adgrx.com.tech.akadns.net^
 @@||rtbdem.com^
 @@||rule34hentai.net^
 @@||s.joinhoney.com^
@@ -471,7 +455,6 @@
 @@||share-online.biz^
 @@||shink.in^
 @@||shink.me^
-@@||shrinkads.com^
 @@||signal-sdk-service-production.ap-south-1.elasticbeanstalk.com^
 @@||singleparentmeet.com^
 @@||sketchfab.com^
@@ -487,7 +470,6 @@
 @@||spade.sci.twitch.tv^
 @@||sparta.qb.mig.tencent-cloud.net^
 @@||spoj.com^
-@@||sports24.club^
 @@||sqs.us-east-1.amazonaws.com^
 @@||ssif1.globalsign.com^
 @@||ssl.o.webmd.com^
@@ -497,8 +479,6 @@
 @@||stat.download.xunlei.com^
 @@||stat.ntv.ru^
 @@||statcounter.com^
-@@||static.duoshuo.com^
-@@||static.farakav.com^
 @@||static.faz.net^
 @@||static.locallogic.co^
 @@||static.wikia.nocookie.net^
@@ -568,7 +548,6 @@
 @@||us.vortex-win.data.microsoft.com^
 @@||usawatchdog.com^
 @@||userid.xiaomi.com^
-@@||users.on.net^
 @@||usesfathom.com^
 @@||uuu9.com^
 @@||v.w-x.co^
@@ -589,7 +568,6 @@
 @@||vpnur.com^
 @@||vresp.com^
 @@||vshare.eu^
-@@||wallstreetcn.com^
 @@||weather.pandora.xiaomi.com^
 @@||webapk-cdn.internet.apps.samsung.com^
 @@||webim.ru^
@@ -627,6 +605,7 @@
 @@||z-p3-api.facebook.com^
 @@||z-p3-sonar.fdar1-1.fna.fbcdn.net^
 @@||zrk.imgur.com^
+@@||users.on.net^
 ||0000a-fast-proxy.de^
 ||000webhost.awex.io^
 ||000webhostapp.com^
