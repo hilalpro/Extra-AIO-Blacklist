@@ -41346,3 +41346,5 @@ devtodev.com
 skins.be
 godaddysites.com
 users.on.net
+samsungcloudcdn.com
+samsungcloudcdn.com.edgesuite.net
