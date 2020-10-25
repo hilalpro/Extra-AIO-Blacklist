@@ -2733,7 +2733,6 @@
 ||hermes.intextual.com^
 ||hermescrossfit.net^
 ||herobo.com^
-||herokudns.com^
 ||herosh.com^
 ||heshicloud.xyz^
 ||hes-online.nl^
