@@ -27262,7 +27262,6 @@ otinuse.html
 otion.so
 otlong.com
 otn.samsungcloudcdn.com
-otn.samsungcloudcdn.comotnprd10.samsungcloudsolution.netotnprd11.samsungcloudsolution.netotnprd8.samsungcloudsolution.net
 otnprd10.samsungcloudsolution.net
 otnprd11.samsungcloudsolution.net
 otnprd8.samsungcloudsolution.net

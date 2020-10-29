@@ -214,6 +214,8 @@
 @@||keywordspy.com^
 @@||kijiji.com^
 @@||lbs.pandora.xiaomi.com^
+@@||lcprd1.samsungcloudsolution.net^
+@@||lcprd2.samsungcloudsolution.net^
 @@||lewrockwell.com^
 @@||licenses.adobe.com^
 @@||likn.xyz^
@@ -365,6 +367,7 @@
 @@||thedailysheeple.com^
 @@||thirdparty.bnc.lt^
 @@||tickle.com^
+@@||time.samsungcloudsolution.net^
 @@||tongbu.com^
 @@||touclick.com^
 @@||toy69.ru^
