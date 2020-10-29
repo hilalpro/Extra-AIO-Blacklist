@@ -41353,3 +41353,6 @@ ssl-stat.amebame.com
 stat100.ameba.jp
 c.stat100.ameba.jp
 herokudns.com
+lcprd1.samsungcloudsolution.net
+lcprd2.samsungcloudsolution.net
+stsprdservicesa.cloudapp.net

@@ -355,6 +355,7 @@
 @@||staticxx.facebook.com^
 @@||stats.gc.apple.com^
 @@||stats.stackexchange.com^
+@@||stsprdservicesa.cloudapp.net^
 @@||sumologic.com^
 @@||survio.com^
 @@||s-usc1c-nss-233.firebaseio.com^
