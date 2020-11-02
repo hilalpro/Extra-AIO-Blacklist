@@ -213,7 +213,6 @@
 @@||images.nvidiagrid.net^
 @@||imgadult.com^
 @@||imgrock.net^
-@@||in.appcenter.ms^
 @@||indiamart.com^
 @@||informz.net^
 @@||insights.hotjar.com^

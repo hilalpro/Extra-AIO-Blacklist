@@ -18263,7 +18263,6 @@ imworld.rediff.com
 imx.to
 imzdl.com
 in.api.io.mi.com
-in.appcenter.ms
 in.bmscdn.com
 in.browserapi.micloud.xiaomi.net
 in.c.mi.com
@@ -25679,7 +25678,6 @@ nimblebird.co
 nimblesquirrel.com
 nimbleswan.io
 nimg.jp
-nin.appcenter.ms
 nine.com.au
 nine.plugins.plexapp.com
 ninemanga.com
