@@ -41357,3 +41357,8 @@ lcprd1.samsungcloudsolution.net
 lcprd2.samsungcloudsolution.net
 stsprdservicesa.cloudapp.net
 tracker.empornium.sx
+s3-sa-east-1.amazonaws.com
+eu-central-1.amazonaws.com
+us-east-2.amazonaws.com
+ibytedtos.com
+win.tue.nl
