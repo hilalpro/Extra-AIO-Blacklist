@@ -11,7 +11,6 @@
 @@||a.tcog.news.com.au^
 @@||abellalist.com^
 @@||acestream.me^
-@@||acr0.samsungcloudsolution.com^
 @@||addevent.com^
 @@||adshort.co^
 @@||adsp.xunlei.com^
@@ -21,7 +20,6 @@
 @@||aic-ngfts.lge.com^
 @@||aii.sh^
 @@||airartapt.site^
-@@||amauthprd.samsungcloudsolution.com^
 @@||amdc.alipay.com^
 @@||amiami.jp^
 @@||angolotesti.it^
@@ -42,7 +40,6 @@
 @@||api-hub.samsungyosemite.com^
 @@||app.chat.global.xiaomi.net^
 @@||app.convertkit.com^
-@@||apps.samsungcloudcdn.com^
 @@||appspot-preview.l.google.com^
 @@||appstore.pandora.xiaomi.com^
 @@||appsumo.com^
@@ -166,7 +163,6 @@
 @@||financial.org^
 @@||find.api.micloud.xiaomi.net^
 @@||findwide.com^
-@@||fkp.samsungcloudsolution.com^
 @@||fls-eu.amazon.com^
 @@||fls-eu.amazon.de^
 @@||flux.com^
@@ -235,7 +231,6 @@
 @@||keywordspy.com^
 @@||kijiji.com^
 @@||lbs.pandora.xiaomi.com^
-@@||lcprd1.samsungcloudsolution.net^
 @@||lewrockwell.com^
 @@||licenses.adobe.com^
 @@||likn.xyz^
@@ -278,16 +273,12 @@
 @@||newtonpaiva.br^
 @@||nexusrules.officeapps.live.com^
 @@||ninja.co.jp^
-@@||notice.samsungcloudsolution.com^
-@@||noticecdn.samsungcloudsolution.com^
-@@||noticefile.samsungcloudsolution.com^
 @@||nowtheendbegins.com^
 @@||nsupdate.info^
 @@||nudevista.com^
 @@||nuskin.com^
 @@||nutaku.com^
 @@||nydus.org^
-@@||oempprd.samsungcloudsolution.com^
 @@||offers-api.cliqz.com^
 @@||olkrzytv.com^
 @@||om.cbsi.com^
@@ -296,11 +287,6 @@
 @@||ooyala.com.akadns.net^
 @@||opinionstage.com^
 @@||optanon.blob.core.windows.net^
-@@||otn.samsungcloudcdn.com^
-@@||otnprd10.samsungcloudsolution.net^
-@@||otnprd11.samsungcloudsolution.net^
-@@||otnprd8.samsungcloudsolution.net^
-@@||otnprd9.samsungcloudsolution.net^
 @@||p0.com^
 @@||parall.ax^
 @@||pdfcomplete.com^
@@ -316,7 +302,6 @@
 @@||prisonplanet.com^
 @@||privacy-policy.truste.com^
 @@||propellerheads.se^
-@@||prov.samsungcloudsolution.com^
 @@||ptmi.gitv.pandora.xiaomi.com^
 @@||pubnub.com^
 @@||pulsar.ebay.com^
@@ -345,8 +330,10 @@
 @@||s3.us-east-1.amazonaws.com^
 @@||sabre.com^
 @@||sajari.com^
+@@||samsungcloudcdn.com^
+@@||samsungcloudsolution.com^
+@@||samsungcloudsolution.net^
 @@||samsungosp.com^
-@@||sas.samsungcloudsolution.com^
 @@||sca.samsung.com^
 @@||schibsted.com^
 @@||scontent-nrt1-1.xx.fbcdn.net^
@@ -399,6 +386,7 @@
 @@||swagbucks.com^
 @@||swift.com^
 @@||synd.cricbuzz.com^
+@@||syndication.twitter.com^
 @@||sys7.msg.xunlei.com^
 @@||teaparty.org^
 @@||telemetry.api.2kcoretech.online^
@@ -443,7 +431,6 @@
 @@||v10.vortex-win.data.microsoft.com^
 @@||v10-win.vortex.data.microsoft.com.akadns.net^
 @@||v20.vortex-win.data.microsoft.com^
-@@||vdterms.samsungcloudsolution.com^
 @@||vectorstock.com^
 @@||veteranstoday.com^
 @@||via.intercom.io^
