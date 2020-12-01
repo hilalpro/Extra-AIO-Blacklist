@@ -334,6 +334,7 @@
 @@||samsungcloudsolution.com^
 @@||samsungcloudsolution.net^
 @@||samsungosp.com^
+@@||samsungqbe.com^
 @@||sca.samsung.com^
 @@||schibsted.com^
 @@||scontent-nrt1-1.xx.fbcdn.net^
