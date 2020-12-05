@@ -41362,3 +41362,9 @@ ibytedtos.com
 win.tue.nl
 s3blog.org
 syndication.twitter.com
+gpm.samsungqbe.com
+osb-ussvc.samsungqbe.com
+osb-eusvc.samsungqbe.com
+osb-krsvc.samsungqbe.com
+osb.samsungqbe.com
+configprd.samsungcloudsolution.net
