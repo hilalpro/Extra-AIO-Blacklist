@@ -3832,7 +3832,6 @@
 ||moviemasterapp.com^
 ||moviessportsnews.com^
 ||moving-company-guide.com^
-||mp.microsoft.com^
 ||mp01.net^
 ||mp3mp4.com^
 ||mp3raid.com^
