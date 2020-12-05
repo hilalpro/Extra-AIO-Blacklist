@@ -41368,3 +41368,4 @@ osb-eusvc.samsungqbe.com
 osb-krsvc.samsungqbe.com
 osb.samsungqbe.com
 configprd.samsungcloudsolution.net
+settings-win.data.microsoft.com

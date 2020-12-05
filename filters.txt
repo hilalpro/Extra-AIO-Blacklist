@@ -5035,7 +5035,6 @@
 ||servitec.net^
 ||servizi-wp.it^
 ||setssun.com^
-||settings-win.data.microsoft.com^
 ||settleship.info^
 ||seusonhodenegocio.com^
 ||sevas-s.com^
