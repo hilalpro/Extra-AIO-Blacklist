@@ -269,7 +269,6 @@
 @@||mishop.pandora.xiaomi.com^
 @@||mittkok.expressen.se^
 @@||miui.net^
-@@||mktossl.com^
 @@||mobile.launchdarkly.com^
 @@||mp.weixin.qq.com^
 @@||mqtt-p4.facebook.com^
@@ -313,6 +312,7 @@
 @@||otnprd8.samsungcloudsolution.net^
 @@||otnprd9.samsungcloudsolution.net^
 @@||p0.com^
+@@||packages.dmd.metaservices.microsoft.com.akadns.net^
 @@||parall.ax^
 @@||pdfcomplete.com^
 @@||pdst.fm^
@@ -1752,8 +1752,8 @@
 ||cursosenac.pro^
 ||cursosmaticos.com^
 ||cusstverify-01-hold-maintain-suppuser-check.tk^
-||custojusto.pt^
 ||custojusto.pt.a.global.clara.net^
+||custojusto.pt^
 ||customerlifetimevalue.co^
 ||customizedcd.com^
 ||cuwoc.cn^
@@ -5420,8 +5420,8 @@
 ||t.cn^
 ||t.meet^
 ||tabbrowser.co.kr^
-||tablica.com^
 ||tablica.com.pl^
+||tablica.com^
 ||tabolinriicloud.tk^
 ||taboola.com^
 ||taigameandroids.com^

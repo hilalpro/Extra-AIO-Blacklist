@@ -23666,7 +23666,6 @@ mkto-sj110039.com
 mkto-sj110151.com
 mkto-sj120013.com
 mkto-sj200162.com
-mktossl.com
 mktplassets.xbox.com
 mktplassets-ssl.xbox.com
 mktw.net
@@ -32666,7 +32665,6 @@ sixte.st
 sixx.de
 sj1gtm003.adobe.com
 sj1gtm004.adobe.com
-sj23.mktossl.com
 sj2-smtp.vclk.net
 sjc01.hls.ttvnw.net
 sjc3.discourse-cdn.com
@@ -41369,3 +41367,6 @@ osb-krsvc.samsungqbe.com
 osb.samsungqbe.com
 configprd.samsungcloudsolution.net
 settings-win.data.microsoft.com
+packages.dmd.metaservices.microsoft.com.akadns.net
+packages.dmd.metaservices.microsoft.com.edgesuite.net
+a1191.d.akamai.net
