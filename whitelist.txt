@@ -41370,3 +41370,5 @@ settings-win.data.microsoft.com
 packages.dmd.metaservices.microsoft.com.akadns.net
 packages.dmd.metaservices.microsoft.com.edgesuite.net
 a1191.d.akamai.net
+atharori.net
+j.gs

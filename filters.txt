@@ -51,6 +51,7 @@
 @@||arc.msn.com^
 @@||assets.juicer.io^
 @@||assets.nvidiagrid.net^
+@@||atharori.net^
 @@||atomz.com^
 @@||atspace.com^
 @@||audio4-ak.spotify.com.edgesuite.net^
@@ -227,6 +228,7 @@
 @@||ip-tracker.org^
 @@||is-tracking-link-api-prod.appspot.com^
 @@||izatcloud.net^
+@@||j.gs^
 @@||jackpot.com^
 @@||javbucks.com^
 @@||jetswap.com^
