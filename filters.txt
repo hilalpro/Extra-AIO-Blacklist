@@ -195,6 +195,7 @@
 @@||gpm.samsungqbe.com^
 @@||gpsonextra.net^
 @@||graph.facebook.com^
+@@||graph.instagram.com^
 @@||gscounters.au1.gigya.com^
 @@||gtp1.gtp.izatcloud.net^
 @@||gtpc1.izatcloud.net^
