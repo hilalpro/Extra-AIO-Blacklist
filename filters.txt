@@ -26,6 +26,7 @@
 @@||amiami.jp^
 @@||angolotesti.it^
 @@||anibis.ch^
+@@||anonfiles.com^
 @@||antiphishing.cliqz.com^
 @@||antirgiocub.com^
 @@||ap.gslb.spotify.com^
@@ -335,6 +336,7 @@
 @@||pulsar.ebay.com^
 @@||puzz.com^
 @@||q.stripe.com^
+@@||quainator.com^
 @@||radarsubmissions.apple.com^
 @@||read.feedly.com^
 @@||realfarmacy.com^

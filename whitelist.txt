@@ -41372,3 +41372,5 @@ packages.dmd.metaservices.microsoft.com.edgesuite.net
 a1191.d.akamai.net
 atharori.net
 j.gs
+anonfiles.com
+quainator.com
