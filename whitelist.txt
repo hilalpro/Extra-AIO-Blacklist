@@ -29,7 +29,6 @@
 0.uk.pool.ntp.org
 0.us.pool.ntp.org
 000webhost.com
-000webhostapp.com
 00cdn.com
 01net.com
 02-dot-com-rt.appspot.com
@@ -100,7 +99,6 @@
 104.ua
 105.net
 1059358532.rsc.cdn77.org
-10and5.com
 10best.com
 10fastfingers.com
 10jqka.com.cn
@@ -469,7 +467,6 @@
 2ip.ru
 2ip.ua
 2krota.ru
-2mdn.net
 2name.com
 2net.co.il
 2oceansvibe.com
@@ -1495,7 +1492,6 @@ adsrt.me
 adsrt.net
 adsrt.org
 ads-serve.brave.com
-adsttc.com
 ads-v-darwin.hulustream.com
 adtidy.org
 adult.com
@@ -1855,7 +1851,6 @@ alive.sportybet.com
 alivecdn.com
 alivedownload.com
 aliyun.com
-aliyuncs.com
 aliyun-inc.com
 aljadeed.tv
 aljazeera.com
@@ -5057,7 +5052,6 @@ bigeyes2015-1watchonline.tumblr.com
 bigfangroup.org
 bigfile.co.kr
 bigfile.mail.naver.com
-bigfishgames.com
 bigfm.de
 bigfootjs.com
 bigfuck.tv
@@ -5841,7 +5835,6 @@ boulanger.fr
 boulderweekly.com
 boum.org
 bounce.listrak.com
-bounceme.net
 boundhub.com
 bountysource.com
 bournemouthecho.co.uk
@@ -6776,7 +6769,6 @@ ccgslb.com.cn
 cc-l3.ts.mtvnservices.com
 cc-lab.com
 ccleaner.com
-ccleaner.tools.avcdn.net
 ccm.net
 ccm134.constantcontact.com
 ccm135.constantcontact.com
@@ -8443,7 +8435,6 @@ congdongvip.com
 congreso.es
 congress.gov
 conmishijos.com
-connatix.com
 connect.awspls.com
 connect.dealersocket.com
 connect.ebay.com
@@ -8657,7 +8648,6 @@ coronavirus.ohio.gov
 corover.mobi
 corp.ign.com
 corp.kaltura.com
-corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 corporate.target.com
 corporationwiki.com
@@ -10420,7 +10410,6 @@ digicert.com
 digicrime.com
 digid.nl
 digiday.com
-digidip.net
 digikala.com
 digiket.com
 digiket.net
@@ -11458,7 +11447,6 @@ dz4invest.com
 dz4link.com
 dz6rzbt3lkau8.cloudfront.net
 dzcdn.net
-dzc-metrics.mzstatic.com
 dziennik.pl
 dzienniklodzki.pl
 dziennikpolski24.pl
@@ -11866,7 +11854,6 @@ elaach.com
 eladkarako.com
 eladkarako.github.io
 elahmad.com
-elakiri.com
 elance.com
 elanco.com
 elasticbeanstalk.com
@@ -16090,7 +16077,6 @@ grow.bigcommerce.com
 growonyoutube.com
 growsumo.com
 growth.pusher.com
-growth-pa.googleapis.com
 grp02.trc.ashiato.rakuten.co.jp
 grsm.io
 grtp.co
@@ -17147,7 +17133,6 @@ hp45a.com
 hpconnected.com
 hpcwire.com
 hpe.com
-hpg.com.br
 hpjav.tv
 hpmdnetwork.ru
 h-pnbank.online-metrix.net
@@ -18370,7 +18355,6 @@ input.mozilla.org
 inputdirector.com
 inputtools.google.com
 inputzero.io
-inq.com
 inquirer.net
 inquisitr.com
 inria.fr
@@ -18475,7 +18459,6 @@ interia.pl
 interiordesign.net
 intermarche.com
 internal.pg.com
-internal.unity3d.com
 internapcdn.net
 internationaljock.com
 internautas.net
@@ -21124,7 +21107,6 @@ linkspaid.com
 linksplit.io
 linksredirect.com
 linksvip.net
-linksynergy.com
 linksys.com
 link-thedrybar-com.emarsys.net
 linktr.ee
@@ -23513,7 +23495,6 @@ mmosite.com
 mmotop.ru
 mms.libelle.nl
 mms.zoho.com
-mmtcdn.com
 mmu.ac.ke
 mmult.ru
 mncdn.com
@@ -24447,7 +24428,6 @@ myhentaigrid.com
 my-hit.org
 myhome.naver.com
 myhomepage.waldenu.edu.00do0000000arriea2.live.siteforce.com
-myhomescreen.tv
 Myimmitracker.com
 myinstants.com
 myip.ms
@@ -25462,7 +25442,6 @@ nmap.org
 nmcheck.gnome.org
 nme.com
 nmedia.discordapp.net
-nmetrics.samsung.com
 nmirror.internetdownloadmanager.com
 nmirror2.internetdownloadmanager.com
 nmirror3.internetdownloadmanager.com
@@ -29792,7 +29771,6 @@ resanance.com
 rescdn.qqmail.com
 resdiary.freshdesk.com
 research.google.com
-research.net
 research.rakuten.co.jp
 researchcenter.paloaltonetworks.com
 researchgate.net
@@ -33886,7 +33864,6 @@ stufferdb.com
 stugon.com
 stumbleupon.com
 stun.1und1.de
-stun.l.google.com
 stupid.com
 stuttgarter-nachrichten.de
 stuttgarter-zeitung.de
@@ -34174,7 +34151,6 @@ surviv.io
 survivalblog.com
 survivetheark.com
 s-usc1c-nss-233.firebaseio.com
-s-usc1c-nss-262.firebaseio.com
 suse.com
 suspended-website.com
 suspic.com
@@ -36162,7 +36138,6 @@ travis-ci.com
 travis-ci.org
 traynier.com
 traynier.github.io
-trbna.com
 treasureinlove.com
 treasureislandmedia.com
 treccani.it
@@ -36771,7 +36746,6 @@ uc-res.mzres.com
 ucsd.edu
 ucsdir.org
 ucw.cz
-ucweb.com
 udacity.com
 udebug.com
 udemy.com
@@ -37134,7 +37108,6 @@ ura.news
 ura-inform.com
 ural.kp.ru
 uraxhayer.ru
-urbanairship.com
 urbandictionary.com
 urban-media.com
 urbanpost.it
@@ -38130,7 +38103,6 @@ vm.ru
 vmagazine.com
 vmall.com
 vmallres.com
-v-mate.mobi
 vmix.com
 vmo24.ru
 vmovier.com
@@ -39598,7 +39570,6 @@ www4.9anime.to
 www4.cbox.ws
 www4.funimation.com
 www4.gogoanime.io
-www49.zippyshare.com
 www5.cbox.ws
 www5.emarsys.net
 www50.zippyshare.com
