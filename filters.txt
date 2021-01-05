@@ -321,7 +321,6 @@
 @@||images.nvidiagrid.net^
 @@||imgadult.com^
 @@||imgrock.net^
-@@||in.appcenter.ms^
 @@||indiamart.com^
 @@||informz.net^
 @@||ingame-news.ubi.com^
