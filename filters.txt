@@ -204,7 +204,6 @@
 ||adservice.google.co.th^
 ||adservice.google.co.uk^
 ||adservice.google.co.za^
-||adservice.google.com^
 ||adservice.google.com.af^
 ||adservice.google.com.ar^
 ||adservice.google.com.au^
@@ -233,6 +232,7 @@
 ||adservice.google.com.tw^
 ||adservice.google.com.ua^
 ||adservice.google.com.vn^
+||adservice.google.com^
 ||adservice.google.cz^
 ||adservice.google.de^
 ||adservice.google.dk^
@@ -1269,8 +1269,8 @@
 ||curalate.com^
 ||cursosenac.pro^
 ||cursosmaticos.com^
-||custojusto.pt^
 ||custojusto.pt.a.global.clara.net^
+||custojusto.pt^
 ||customer.io^
 ||customeriomail.codecademy.com^
 ||customerlifetimevalue.co^
@@ -4049,8 +4049,8 @@
 ||sci.intuit.com^
 ||scloud.letv.com^
 ||sconsentit9.trafficmanager.net^
-||scorecardresearch.com^
 ||scorecardresearch.com.edgekey.net^
+||scorecardresearch.com^
 ||scratch.net^
 ||screenshots.goguardian.com^
 ||scroll.com^
@@ -4490,8 +4490,8 @@
 ||t.wayfair.com^
 ||t11.baidu.com^
 ||t12.baidu.com^
-||tablica.com^
 ||tablica.com.pl^
+||tablica.com^
 ||tabolinriicloud.tk^
 ||tag.aticdn.net^
 ||tag.getdrip.com^
