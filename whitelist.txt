@@ -1578,7 +1578,6 @@ adventuregamers.com
 advertisement.alibabacorp.com
 advertisement.tanx.com.gds.alibabadns.com
 advertising.amazon.com
-advertising.com
 adverts.ie
 advfn.com
 advice.co.th
@@ -17050,6 +17049,7 @@ here.com
 heregays.tv
 herehard.tv
 herocraft.com
+heroku.com
 herokuapp.com
 herokucdn.com
 herokudns.com
@@ -40336,9 +40336,6 @@ wwis-dubc1-vip60.adobe.com
 wwitv.com
 wwlp.com
 wwltv.com
-www.advertising.com
-www.adverts.ie
-www.heroku.com
 www1.2giga.link
 www1.dell-cidr.akadns.net
 www1.emarsys.net
