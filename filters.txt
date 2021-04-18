@@ -626,7 +626,6 @@
 @@||segundamano.es^
 @@||sematext.com^
 @@||sendspace.com^
-@@||sentry.io^
 @@||serials.ws^
 @@||server-analytics.snapchat.com^
 @@||service.cz.nl^
