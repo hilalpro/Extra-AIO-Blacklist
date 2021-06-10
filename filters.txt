@@ -1,4 +1,5 @@
 @@||100percentfedup.com^
+@@||148apps.com^
 @@||1530589719.rsc.cdn77.org^
 @@||1shoppingcart.com^
 @@||1xbet53.com^
@@ -9,7 +10,6 @@
 @@||51.com^
 @@||56.com^
 @@||7moor.com^
-@@||7zap.com^
 @@||888poker.com^
 @@||a.baidu.com^
 @@||a.gsmarena.com^
@@ -18,7 +18,9 @@
 @@||a.tcog.news.com.au^
 @@||a1843.g.akamai.net^
 @@||abellalist.com^
+@@||acenar.com^
 @@||acestream.me^
+@@||acpbdf.com.br^
 @@||acr0.samsungcloudsolution.com^
 @@||acs.m.taobao.com^
 @@||activation.cloud.techsmith.com^
@@ -45,15 +47,12 @@
 @@||alltheinternet.com^
 @@||amauthprd.samsungcloudsolution.com^
 @@||amdc.alipay.com^
-@@||amiami.jp^
-@@||analitik.edevlet.gov.tr^
 @@||analytics.console.aws.a2z.com^
 @@||analytics.ghostery.com^
 @@||angolotesti.it^
 @@||anibis.ch^
 @@||antiphishing.cliqz.com^
 @@||any.gs^
-@@||ap.gslb.spotify.com^
 @@||api.aspencore.com^
 @@||api.cliqz.com^
 @@||api.cortana.ai^
@@ -92,12 +91,10 @@
 @@||awssgp0-files.fds.api.xiaomi.com^
 @@||awsusor0-cdn.fds-ssl.api.xiaomi.com^
 @@||az19942.vo.msecnd.net^
-@@||b02.black.ndmdhs.com^
 @@||b23.ru^
 @@||b3.yahoo.co.jp^
 @@||b5.yahoo.co.jp^
 @@||badoink.com^
-@@||badongo.com^
 @@||badoo.com^
 @@||banner.play-asia.com^
 @@||barilliance.com^
@@ -167,7 +164,6 @@
 @@||cmp.nextday.media^
 @@||cnbj1.fds.api.xiaomi.com^
 @@||coasttocoastam.com^
-@@||coinurl.com^
 @@||collector.wallapop.com^
 @@||commission-junction.com^
 @@||commons.dw.com^
@@ -177,8 +173,6 @@
 @@||connect.facebook.net^
 @@||consent.trustarc.com^
 @@||consentmanager.mgr.consensu.org^
-@@||content.ctfs.com^
-@@||content.xilu.com^
 @@||cookie.vrt.be^
 @@||counter.sudrf.ru^
 @@||countere.com^
@@ -188,14 +182,12 @@
 @@||crm.zoho.com^
 @@||cta-redirect.hubspot.com^
 @@||cupid.com^
-@@||cur.lv^
 @@||customerevents.netflix.com^
 @@||cwahi.net^
 @@||cxense.com.edgekey.net^
 @@||cyonix.to^
 @@||d.joinhoney.com^
 @@||d10lpsik1i8c69.cloudfront.net^
-@@||d1f8f9xcsvx3ha.cloudfront.net^
 @@||d1jwpcr0q4pcq0.cloudfront.net^
 @@||d1z2jf7jlzjs58.cloudfront.net^
 @@||d2405b0jymm2dk.cloudfront.net^
@@ -228,10 +220,8 @@
 @@||delivery04.dhe.ibm.com^
 @@||device-provisioning.googleapis.com^
 @@||diagnostics.support.microsoft.com^
-@@||digiket.com^
 @@||digitaladsystems.com^
 @@||digitaladvisor.dk^
-@@||directtrack.com^
 @@||disclose.tv^
 @@||disply.me^
 @@||dl.360safe.com^
@@ -241,7 +231,6 @@
 @@||dna8twue3dlxq.cloudfront.net^
 @@||dnn506yrbagrg.cloudfront.net^
 @@||doctorpk.mywibes.com^
-@@||dp.image-gmkt.com^
 @@||dq4ijymydgrfx.cloudfront.net^
 @@||dsms0mj1bbhn4.cloudfront.net^
 @@||dt51.net^
@@ -251,7 +240,6 @@
 @@||e8218.dscb1.akamaiedge.net^
 @@||ecn.dev.virtualearth.net^
 @@||ecsv2.roblox.com^
-@@||edgefcs.net^
 @@||eepurl.com^
 @@||ellation.map.fastly.net^
 @@||elpais.es^
@@ -276,7 +264,6 @@
 @@||fas.li^
 @@||fashionista.com^
 @@||fast-push.com^
-@@||fbcdn-creative-a.akamaihd.net^
 @@||fc.vodafone.de^
 @@||feedbackws.icloud.com^
 @@||feefo.com^
@@ -293,8 +280,8 @@
 @@||fls-eu.amazon.sa^
 @@||fls-eu.amazon.se^
 @@||fls-fe.amazon.co.jp^
-@@||fls-fe.amazon.com.au^
 @@||fls-fe.amazon.com^
+@@||fls-fe.amazon.com.au^
 @@||fls-fe.amazon.sg^
 @@||fls-na.amazon.ca^
 @@||fls-na.amazon.com.br^
@@ -304,13 +291,11 @@
 @@||forester.a2z.com^
 @@||frantic.com^
 @@||freebitco.in^
-@@||freelotto.com^
 @@||freenom.link^
 @@||freesteamkeys.com^
 @@||freewha.com^
 @@||frog.wix.com^
 @@||ftp.drivehq.com^
-@@||full.pr0gramm.com^
 @@||fundingchoicesmessages.google.com^
 @@||fusioncash.net^
 @@||fy.v.vrv.co^
@@ -329,17 +314,14 @@
 @@||gigazine.asia^
 @@||gigya.com^
 @@||glimmer.hearstapps.com^
-@@||go.neverware.com^
 @@||go.theregister.com^
 @@||gokano.com^
 @@||goldbach.com^
 @@||gome.com.cn^
 @@||googleadapis.l.google.com^
 @@||gpm.samsungqbe.com^
-@@||gpsonextra.net^
 @@||graph.facebook.com^
 @@||graph.instagram.com^
-@@||greenheartmed.org^
 @@||groupees.com^
 @@||gtop100.com^
 @@||guce.oath.com^
@@ -355,6 +337,7 @@
 @@||hbbtv.sixx.de^
 @@||hbbtv.superrtl.de^
 @@||hbbtv01p.anixe.net^
+@@||hbbtv-1.eurosport.com^
 @@||hbbtvapp.sonnenklar.tv^
 @@||hb-minify-juc1ugur1qwqqqo4.stackpathdns.com^
 @@||hdmaze.net^
@@ -366,6 +349,7 @@
 @@||honeybadger.io^
 @@||hook.integromat.com^
 @@||hotelscombined.com.au^
+@@||hsselite.com^
 @@||huk.de^
 @@||humansarefree.com^
 @@||huzlers.com^
@@ -386,6 +370,7 @@
 @@||img.smi2.net^
 @@||imgadult.com^
 @@||imgrock.net^
+@@||impawards.com^
 @@||indiamart.com^
 @@||inedo.com^
 @@||informz.net^
@@ -401,7 +386,6 @@
 @@||ipify.org^
 @@||ipoker.com^
 @@||ipqualityscore.com^
-@@||ipsnews.net^
 @@||ip-tracker.org^
 @@||is-tracking-link-api-prod.appspot.com^
 @@||it.rojadirecta.eu^
@@ -410,8 +394,6 @@
 @@||javbucks.com^
 @@||jetswap.com^
 @@||jiathis.com^
-@@||js.t.sinajs.cn^
-@@||kaltura.perf.akadns.net^
 @@||katcr.to^
 @@||kaufda.de^
 @@||kdukvh.com^
@@ -439,9 +421,7 @@
 @@||log-tb.sgsnssdk.com^
 @@||loveandseek.com^
 @@||lp.babbel.com^
-@@||lvbet.pl^
 @@||lxcdn.dl.files.xiaomi.net^
-@@||m0.net^
 @@||mads-eu.amazon.com^
 @@||magicplayer-api.torrentstream.org^
 @@||magicplayer-s.torrentstream.org^
@@ -485,7 +465,6 @@
 @@||movable-ink-2183.com^
 @@||mp.weixin.qq.com^
 @@||mqtt-p4.facebook.com^
-@@||mr.comingsoon.it^
 @@||mx.yandex.ru^
 @@||myfreecams.com^
 @@||myftpupload.com^
@@ -517,14 +496,11 @@
 @@||oempprd.samsungcloudsolution.com^
 @@||offers-api.cliqz.com^
 @@||olmprodpowerlift-cdn.azureedge.net^
-@@||oms.symantec.com^
 @@||onecollector.cloudapp.aria.akadns.net^
-@@||onelink-translations.com^
 @@||onenetworkdirect.net^
 @@||onlinebootycall.com^
 @@||ooyala.com.akadns.net^
 @@||opinionstage.com^
-@@||ops.bpost.be^
 @@||optanon.blob.core.windows.net^
 @@||osb.samsungqbe.com^
 @@||osb-eusvc.samsungqbe.com^
@@ -537,7 +513,6 @@
 @@||p0.com^
 @@||p3nlhclust404.shr.prod.phx3.secureserver.net^
 @@||packages.dmd.metaservices.microsoft.com.akadns.net^
-@@||pad.mymovies.it^
 @@||pandapush-iad-prod.inscloudgate.net^
 @@||parall.ax^
 @@||parse.ly^
@@ -550,7 +525,6 @@
 @@||p-hbbtv.superrtl.de^
 @@||pinnaclesports.com^
 @@||pipeaota.com^
-@@||pixeldrain.com^
 @@||plarium.com^
 @@||plimus.com^
 @@||pm0.net^
@@ -560,6 +534,7 @@
 @@||prf.hn^
 @@||prisonplanet.com^
 @@||privacymanager.io^
+@@||prod.balrog.prod.cloudops.mozgcp.net^
 @@||propellerheads.se^
 @@||prov.samsungcloudsolution.com^
 @@||proxad.net^
@@ -586,7 +561,6 @@
 @@||redirectingat.com^
 @@||relink.to^
 @@||relink.us^
-@@||renta.papy.co.jp^
 @@||report-uri.com^
 @@||researchintel.com^
 @@||researchnow.co.uk^
@@ -600,7 +574,6 @@
 @@||router.bittorrent.com^
 @@||row-advil.waze.com^
 @@||rs6.net^
-@@||rss.drecom.jp^
 @@||s.joinhoney.com^
 @@||s.shopify.com^
 @@||s1.lemde.fr^
@@ -612,7 +585,6 @@
 @@||samsungosp.com^
 @@||sas.samsungcloudsolution.com^
 @@||sca.samsung.com^
-@@||schemas.android.com^
 @@||schibsted.com^
 @@||scontent-nrt1-1.xx.fbcdn.net^
 @@||scripts.kataweb.it^
@@ -626,11 +598,10 @@
 @@||segpay.com^
 @@||segundamano.es^
 @@||sematext.com^
-@@||sendspace.com^
 @@||serials.ws^
 @@||server-analytics.snapchat.com^
-@@||service.cz.nl^
 @@||service.game-mode.net^
+@@||sevenval-fit.com^
 @@||sf6-ttcdn-tos.pstatp.com^
 @@||s-forum.biz^
 @@||sfsapi.micloud.xiaomi.net^
@@ -666,7 +637,6 @@
 @@||ssm2.internet.sony.tv^
 @@||ssm3.internet.sony.tv^
 @@||sso.internetat.tv^
-@@||ssu.edu.ph^
 @@||staging.ai.api.xiaomi.com^
 @@||stat.download.xunlei.com^
 @@||statebankrewardz.com^
@@ -699,6 +669,7 @@
 @@||tc.tradetracker.nl^
 @@||tcelectronic.com^
 @@||teaparty.org^
+@@||techsmith.com^
 @@||telemetry.api.2kcoretech.online^
 @@||telemetry-in.battle.net^
 @@||test.quantcast.mgr.consensu.org^
@@ -713,6 +684,7 @@
 @@||tom.itv.com^
 @@||tongbu.com^
 @@||tools.ranker.com^
+@@||topica.com^
 @@||touclick.com^
 @@||toy69.ru^
 @@||track.canva.com^
@@ -748,7 +720,6 @@
 @@||urbanspoon.com^
 @@||us.vortex-win.data.microsoft.com^
 @@||us04logfiles.zoom.us^
-@@||usawatchdog.com^
 @@||userid.xiaomi.com^
 @@||users.on.net^
 @@||v10.vortex-win.data.microsoft.com^
@@ -767,9 +738,8 @@
 @@||viglink.com^
 @@||visit.digidip.net^
 @@||visit-x.net^
-@@||vn-zoom.com^
-@@||vortex.hulu.com.akadns.net^
 @@||vortex.hulu.com^
+@@||vortex.hulu.com.akadns.net^
 @@||vsevjednom.cz^
 @@||waldenfarms.com^
 @@||wallet.advcash.com^
@@ -786,13 +756,11 @@
 @@||wfcdn.de^
 @@||widget.pushbullet.com^
 @@||widget.surveymonkey.com^
-@@||widgets.amazon.com^
 @@||widgets.prisjakt.nu^
 @@||win10.ipv6.microsoft.com^
 @@||win1710.ipv6.microsoft.com^
 @@||windowssearch.com^
 @@||windowsuninstaller.org^
-@@||wip3.adobe.com^
 @@||wix.livechatinc.com^
 @@||woodpecker.uc.cn^
 @@||worldsex.com^
@@ -800,13 +768,11 @@
 @@||ws-adv.ais.co.th^
 @@||wumii.com^
 @@||www3.telus.net^
-@@||www4.orangecyberdefense.com^
 @@||xero.com^
 @@||xhost.ro^
 @@||xlmc.sandai.net^
 @@||xrea.com^
 @@||xtra.co.nz^
-@@||xtracloud.net^
 @@||yabs.yandex.ru^
 @@||yelp.co.uk^
 @@||ymtrack.com^
