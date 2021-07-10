@@ -882,7 +882,6 @@
 7junshi.com
 7kanal.co.il
 7mmtv.tv
-7moor.com
 7msport.com
 7r6.com
 7sur7.be
@@ -1094,6 +1093,7 @@ aaroads.com
 aarp.org
 aastocks.com
 aax-eu-retail-direct.amazon-adsystem.com
+aax-us-iad.amazon.com
 ab.is.fi
 ab13.mktossl.com
 ab14.mktossl.com
@@ -10151,6 +10151,7 @@ darkhorizons.com
 darkhorse.com
 darknet.org.uk
 darkreader.github.io
+darkreader.org
 darkreading.com
 darktable.org
 darkumbra.net
@@ -10810,6 +10811,7 @@ diariosigloxxi.com
 diariosur.es
 diariotextual.com
 diariovasco.com
+diary.ru
 dic.daum.net
 dic.naver.com
 dic.nicovideo.jp
@@ -14226,9 +14228,12 @@ flowcenter.de
 flowgo.com
 flowplayer.com
 flowplayer.org
+fls-cn.amazon
 fls-cn.amazon.cn
 fls-cn.amazon.com
+fls-eu.amazon
 fls-eu.amazon.ae
+fls-eu.amazon.co.uk
 fls-eu.amazon.com
 fls-eu.amazon.de
 fls-eu.amazon.es
@@ -14238,10 +14243,12 @@ fls-eu.amazon.it
 fls-eu.amazon.nl
 fls-eu.amazon.sa
 fls-eu.amazon.se
+fls-fe.amazon
 fls-fe.amazon.co.jp
 fls-fe.amazon.com
 fls-fe.amazon.com.au
 fls-fe.amazon.sg
+fls-na.amazon
 fls-na.amazon.ca
 fls-na.amazon.com
 fls-na.amazon.com.br
@@ -16664,7 +16671,6 @@ grow.bigcommerce.com
 growonyoutube.com
 growsumo.com
 growth.pusher.com
-growth-pa.googleapis.com
 grp02.trc.ashiato.rakuten.co.jp
 grsm.io
 grtp.co
@@ -20054,7 +20060,6 @@ jsperf.com
 jsprav.ru
 jss.corp.salesforce.com
 jss.t.sinajs.cn
-js-sec.casalemedia.com.edgekey.net
 jstatic.letvcdn.com
 jstucdn.com
 jstv.com
