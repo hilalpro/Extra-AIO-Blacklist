@@ -430,6 +430,7 @@
 @@||govid.co^
 @@||graellyn.fun^
 @@||grand-prise-ishere4.life^
+@@||graph.facebook.com^
 @@||greenmode.biz^
 @@||grom24.ru^
 @@||gtrk.s3.amazonaws.com^

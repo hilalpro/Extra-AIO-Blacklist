@@ -32929,6 +32929,7 @@ grapesjs.com
 grapevine.is
 grapevinelogic.com
 graph.accountkit.com
+graph.facebook.com
 graph.microsoft.com
 graph.qq.com
 graph.whatsapp.net
