@@ -27109,6 +27109,7 @@ fbmedia-lys.com
 fbmta.com
 fbo.gov
 fbox.to
+fbpigeon.com
 fbprod.flipboard.com
 fbs.ae
 fbs.com
@@ -32930,6 +32931,7 @@ grapevine.is
 grapevinelogic.com
 graph.accountkit.com
 graph.facebook.com
+graph.fbpigeon.com
 graph.microsoft.com
 graph.qq.com
 graph.whatsapp.net
