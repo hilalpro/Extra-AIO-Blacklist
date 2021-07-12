@@ -1571,12 +1571,6 @@ a0.awsstatic.com
 a0.muscache.com
 a0.smi2.ru
 a-0001.a-afdentry.net.trafficmanager.net
-a-0001.a-msedge.net
-a-0003.a-msedge.net
-a-0003.dc-msedge.net
-a-0007.a-msedge.net
-a-0010.a-msedge.net
-a-0012.a-msedge.net
 a1.by
 a1.mylivechat.com
 a1.mzstatic.com
@@ -5012,7 +5006,6 @@ ams02-usadmm-ds.dotomi.com
 ams03-usadmm-ds.dotomi.com
 ams3.digitaloceanspaces.com
 amscope.com
-a-msedge.net
 ams-ix.net
 amsn.org
 amsshardul.com
@@ -7028,9 +7021,6 @@ asicentral.com
 asics.com
 asid.org
 asiemailexpress.com
-asimov.vortex.data.microsoft.com.akadns.net
-asimov-win.settings.data.microsoft.com.akadns.net
-asimov-win.vortex.data.microsoft.com.akadns.net
 asipolicy.com
 asisonline.org
 asite.com
@@ -11245,7 +11235,6 @@ bmrf.org
 bms.com
 bms.plateau.com
 bmsecure.id
-b-msedge.net
 bmsfcu.online-cu.com
 bmsfcu.org
 bms-hosxp.com
@@ -11256,7 +11245,6 @@ bmwfs.com
 bmwofbloomington.com
 bmwofgrapevine.com
 bn.gravatar.com
-bn2.vortex.data.microsoft.com.akadns.net
 bn3p.wns.windows.com
 bn3sch020020842.wns.windows.com
 bn3sch020022156.wns.windows.com
@@ -16409,7 +16397,6 @@ cloudfilt.com
 cloudflare.com
 cloudflareapps.com
 cloudflare-dns.com
-cloudflareinsights.com
 cloudflareresolve.com
 cloudflarestream.com
 cloudflareworkers.com
@@ -16586,7 +16573,6 @@ cms2.gameflycdn.com
 cms2.hubspot.com
 cms4schools.net
 cms-bucket.ws.126.net
-c-msedge.net
 cmsmasters.net
 cms-portal.qualcomm.com
 cms-twdigitalassets.com
@@ -19439,7 +19425,6 @@ cxyzjd.com
 cy.gravatar.com
 cy.wikipedia.com
 cy2.licensing.md.mp.microsoft.com.akadns.net
-cy2.settings.data.microsoft.com.akadns.net
 cyanogenmods.org
 cyber.usask.ca
 cyberark.com
@@ -20405,7 +20390,6 @@ db.de
 db.tt
 db0nus869y26v.cloudfront.net
 db187550c7dkf.cloudfront.net
-db5.vortex.data.microsoft.com.akadns.net
 db5p.wns.windows.com
 dba.dk
 dbaclass.com
@@ -23367,7 +23351,6 @@ du11hjcvx0uqb.cloudfront.net
 du1gtm004.adobe.com
 du3rt6yhb1dqh.cloudfront.net
 du4pg90j806ok.cloudfront.net
-dual-a-0001.a-msedge.net
 dualpaste.net
 dualshockers.com
 dualstack.com.imgix.map.fastly.net
@@ -25236,7 +25219,6 @@ ems.post
 ems1.com
 emsc-csem.org
 ems-delivery.api.playstation.com
-e-msedge.net
 emser.com
 emsicc.com
 emsisoft.com
@@ -26222,7 +26204,6 @@ eu.startpage.com
 eu.static.mega.co.nz
 eu.techcrunch.com
 eu.usatoday.com
-eu.vortex.data.microsoft.com.akadns.net
 eu.webpush.freshchat.com
 eu.wikipedia.com
 eu1.documents.adobe.com
@@ -26404,8 +26385,6 @@ eus1-urlp.secure.skypeassets.com
 euskadi.eus
 euskadi.net
 eu-startups.com
-eu-v10.events.data.microsoft.com
-eu-v20.events.data.microsoft.com
 eu-west-1.elb.amazonaws.com
 eu-west-1-chat-server.frontapp.com
 eu-west-3.elb.amazonaws.com
@@ -26487,7 +26466,6 @@ events.apester.com
 events.api.godaddy.com
 events.com
 events.constantcontact.com
-events.data.microsoft.com
 events.godaddy.com
 events.intuit.launchdarkly.com
 events.kaspersky.com
@@ -35796,7 +35774,6 @@ hk.on.cc
 hk.pool.ntp.org
 hk.yahoo.com
 hk.ynuf.aliapp.org
-hk2.vortex.data.microsoft.com.akadns.net
 hkbea.com
 hkbea-cyberbanking.com
 hkbn.net
@@ -51229,7 +51206,6 @@ msdn.rg-adguard.net
 msdprojectclear.org
 mse.360.cn
 msecnd.net
-msedge.net
 mservice.io
 msexchange.org
 msfn.org
@@ -57366,7 +57342,6 @@ outlook.office.com
 outlook.office365.com
 outlook.outreach.io
 outlookindia.com
-outlookmobile-office365-tas.msedge.net
 outmatch.com
 outof.cards
 outplayhq.com
@@ -67867,7 +67842,6 @@ seleniumhq.org
 selenium-release.storage.googleapis.com
 selerasa.com
 self.com
-self.events.data.microsoft.com
 self.inc
 selfadvertiser.com
 selfbutler.com
@@ -68279,7 +68253,6 @@ setrow.com
 setsdowntown.com
 settingforfour.com
 settings.crisp.chat
-settings.data.microsoft.com
 settings.shuax.com
 settingsfd-geo.trafficmanager.net
 settings-ssl.xboxlive.com
@@ -70289,7 +70262,6 @@ smsaexpress.com
 smsapi.micloud.xiaomi.net
 smsbump.com
 smsecure-dt.com
-s-msedge.net
 s-msft.com
 sms-magic.com
 smsmatrix.com
@@ -72160,7 +72132,6 @@ static.cdnpub.info
 static.cdnslate.com
 static.chasecdn.com
 static.clickfunnels.com
-static.cloudflareinsights.com
 static.cloudim.ru
 static.coinbase.com
 static.connector.zendesk.ext.smooch.io
@@ -80144,7 +80115,6 @@ uktv.co.uk
 ukulele-tabs.com
 ukulisea.club
 ukutabs.com
-uk-v20.events.data.microsoft.com
 ul.com
 ul.to
 ulabox.com
@@ -80254,7 +80224,6 @@ umrli.me
 umterps.com
 umu.se
 umusic.com
-umwatsonc.events.data.microsoft.com
 umzu.com
 umzugsauktion.de
 umzzaftkqgx.com
@@ -80930,7 +80899,6 @@ us.pipe.aria.microsoft.com
 us.playstation.com
 us.pool.ntp.org
 us.rdx2.lgtvsdp.com
-us.vortex.data.microsoft.com.akadns.net
 us.wifiapi.micloud.xiaomi.net
 us.williamhill.com
 us.xmssmc.mws.xiaomi.net
@@ -81004,7 +80972,6 @@ us5.admin.mailchimp.com
 us5.api.mailchimp.com
 us5.list-manage.com
 us5.mailchimp.com
-us5-v20.events.data.microsoft.com
 us6.admin.mailchimp.com
 us6.list-manage.com
 us6.mailchimp.com
@@ -81281,8 +81248,6 @@ ustrendingtoday.com
 us-unemployment-resources.com
 usuniversity.edu
 usurnsonline.com
-us-v10.events.data.microsoft.com
-us-v20.events.data.microsoft.com
 usvitravelportal.com
 uswatersystems.com
 us-west-1.elb.amazonaws.com
@@ -81402,18 +81367,13 @@ v.youku.com
 v0.wordpress.com
 v1.iad1.bitgravity.com
 v1.ru
-v10.events.data.microsoft.com
-v10c.events.data.microsoft.com.aria.akadns.net
-v10-win.vortex.data.microsoft.com.akadns.net
 v12pwr.com
 v12software.com
 v2.pandora.zb.mi.com
 v2.scr.kaspersky-labs.com
 v2.zb.mi.com
 v2.zopim.com
-v20.events.data.microsoft.com
 v2020.com
-v20-asimov-win.vortex.data.microsoft.com.akadns.net
 v2cloud.com
 v2ex.assets.uxengine.net
 v2ex.com
@@ -82658,7 +82618,6 @@ visualping.io
 visuals.soundcloud.com
 visualsbyimpulse.com
 visualstudio.com
-visualstudio-devdiv-c2s.msedge.net
 visualstudiomagazine.com
 visuwell.io
 vitacoco.com
@@ -83017,7 +82976,6 @@ voranda.com
 vortala.com
 vortex.accuweather.com
 vortex.data.glbdns2.microsoft.com
-vortex.data.microsoft.com.akadns.net
 vortexparty.org
 vortez.net
 vos.lavoz.com.ar
@@ -83894,7 +83852,6 @@ web.threema.ch
 web.travel.rakuten.co.jp
 web.tv
 web.vip.miui.com
-web.vortex.data.microsoft.com.akadns.net
 web.wechat.com
 web.whatsapp.com
 web1.wechat.com
@@ -86022,7 +85979,6 @@ wwwimages2.adobe.com
 wwwimages2.stage.adobe.com
 www-kiva-org.global.ssl.fastly.net
 www-kixfonts-opensocial.googleusercontent.com
-www-msn-com.a-0003.a-msedge.net
 www-ndtv-com.cdn.ampproject.org
 www-opensocial.googleusercontent.com
 www-origin.xbox.com
