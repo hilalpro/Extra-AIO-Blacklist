@@ -149,12 +149,10 @@
 @@||bitcoin-ad.com^
 @@||bitingcomposed.com^
 @@||bitly.com^
-@@||bitnodes.io^
 @@||blackpeoplemeet.com^
 @@||blacraft.com^
 @@||blankrefer.com^
 @@||blueconic.com^
-@@||bluleadz.com^
 @@||boardpackager.com^
 @@||bolt.dropbox.com^
 @@||bonanza.com^
@@ -271,7 +269,6 @@
 @@||copysign.link^
 @@||counter.sudrf.ru^
 @@||countere.com^
-@@||counters.gigya.com^
 @@||countess.twitch.tv^
 @@||cpx-research.com^
 @@||crazycash.tv^
@@ -358,7 +355,6 @@
 @@||eleavers.com^
 @@||electlinks.biz^
 @@||ellation.map.fastly.net^
-@@||elnagar8.com^
 @@||elpais.es^
 @@||emalls.ir^
 @@||embedstream.me^
@@ -455,6 +451,7 @@
 @@||ftp.drivehq.com^
 @@||fundingchoicesmessages.google.com^
 @@||funzone.by^
+@@||furnitureappliancemart.com^
 @@||fusioncash.net^
 @@||futek.com^
 @@||fxsmash.xyz^
@@ -508,7 +505,6 @@
 @@||haccessonlineforms.com^
 @@||haccesstvstreaming.com^
 @@||halloweenexpress.com^
-@@||hangtruyen.com^
 @@||hawaiisurf.com^
 @@||hawk.so^
 @@||hbbtv.3sat.de^
@@ -574,7 +570,6 @@
 @@||imgrock.net^
 @@||inconsense.space^
 @@||incredibarvuz1.com^
-@@||indgovtjobs.in^
 @@||indiamart.com^
 @@||indir.blue^
 @@||indochino.com^
@@ -606,7 +601,6 @@
 @@||iubenda.com^
 @@||iwmbuzz.com^
 @@||jackpot.com^
-@@||jans.com^
 @@||jehealis.com^
 @@||jetswap.com^
 @@||jivesoftware.com^
@@ -635,7 +629,6 @@
 @@||lanta-net.ru^
 @@||latestnewstoday.xyz^
 @@||leadexpress.nl^
-@@||learnrxjs.io^
 @@||leaurned-fundonals.com^
 @@||leftoverdoorbell.com^
 @@||lemon-ade.site^
@@ -674,7 +667,6 @@
 @@||luckydays.com^
 @@||luminati.io^
 @@||lustpornos.com^
-@@||m0.net^
 @@||mahaidroagra.com^
 @@||majorlinker.biz^
 @@||makeklick.biz^
@@ -798,7 +790,6 @@
 @@||omar-yemen.com^
 @@||omnicomgroup.com^
 @@||omnivirt.com^
-@@||oms.symantec.com^
 @@||onead.com.tw^
 @@||onenightfriend.com^
 @@||onlinebars.xyz^
@@ -837,6 +828,7 @@
 @@||pdst.fm^
 @@||peco.com^
 @@||performance.typekit.net^
+@@||perkopolis.com^
 @@||p-hbbtv.superrtl.de^
 @@||pi.pardot.com^
 @@||pixelunion.net^
@@ -931,7 +923,6 @@
 @@||reverscaptcha.com^
 @@||reviversoft.com^
 @@||rewards4claim.net^
-@@||rhythmsystems.com^
 @@||ripley.cl^
 @@||rivertraffic.com^
 @@||rivetrearrange.com^
@@ -1109,7 +1100,6 @@
 @@||techsmith.com^
 @@||teenymetropolitan.com^
 @@||tei.ai^
-@@||tenthousand.cc^
 @@||test.quantcast.mgr.consensu.org^
 @@||test-app.link^
 @@||test-iq.org^
@@ -1164,7 +1154,6 @@
 @@||trustedsite.com^
 @@||trycelery.com^
 @@||trytechnical.com^
-@@||ttgmedia.com^
 @@||tube3.com^
 @@||tudou.com^
 @@||tune-up.com^
