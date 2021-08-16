@@ -14513,7 +14513,7 @@ bithumb.com
 bithumb.pro
 bitiba.es
 bitinfocharts.com
-bitingcomposed.com
+
 bitit.io
 bitjunkey.com
 bitkonan.com
@@ -20795,7 +20795,7 @@ centralbank.ae
 centralcomputer.com
 centraldispatch.com
 centralgameday.com
-centralheat.net
+
 centralillinoisproud.com
 centralindex.com
 centrallyon.org
@@ -22234,7 +22234,7 @@ ciscopress.com
 cisecurity.org
 cisi.org
 ci-signal.com
-cision.com
+
 cisleads.com
 cit.com
 citacoes.in
@@ -22755,7 +22755,7 @@ click1.mail.horoscope.com
 click108.com.tw
 click2.anytheengmedia.com
 click2.info
-click2click.xyz
+
 click2houston.com
 click2win4life.com
 click49.net
@@ -23696,7 +23696,7 @@ codechef.com
 codeclimate.com
 codecogs.com
 codecov.io
-codedpigzed.cam
+
 codedwap.com
 codeemo.com
 codefactor.io
@@ -23923,7 +23923,7 @@ cointube.cc
 coinwarz.com
 coinweek.com
 coinwetalk.com
-coinzilla.com
+
 coiphimhay.net
 coit.com
 coithienthai.net
@@ -28897,7 +28897,7 @@ datacollectionsite.com
 datacolor.com
 datacrunch.9c9media.ca
 datadikdasmen.com
-datadoghq.com
+
 datadoghq.eu
 datadriveninvestor.com
 datadryad.org
@@ -30443,7 +30443,7 @@ dewu.com
 dewvpn.com
 dex.guru
 dexas.com
-dexchangegenius.com
+
 dexcom.com
 dexerto.com
 dexerto.fr
@@ -42923,7 +42923,7 @@ frontsteps.com
 frontstream.com
 frontwavecu.com
 frooition.com
-frookshop-winsive.com
+
 frost.com
 frostbuddy.com
 frotcom.com
@@ -52848,7 +52848,7 @@ iconsdb.com
 icons-for-free.com
 iconspng.com
 iconswim.com
-icontact.com
+
 icontact-archive.com
 icontainers.com
 icontherecord.tumblr.com
@@ -53299,7 +53299,7 @@ ignitioncasino.eu
 ignorelist.com
 ignou.ac.in
 ignouhelp.in
-igodigital.com
+
 igolf.com
 igorslab.de
 igotinvited.com
@@ -72654,7 +72654,7 @@ mp3skull.me
 mp3snow.com
 mp3songs.us
 mp3spy.cc
-mp3starz.com
+
 mp3tag.de
 mp3tags.net
 mp3teca.com
@@ -85578,7 +85578,7 @@ poolsupplyunlimited.com
 poolsupplyworld.com
 poolweb.com
 pool-x.io
-poool.fr
+
 poooliprint.com
 poopeegirls.com
 poopourri.com
@@ -87827,7 +87827,7 @@ pu.nl
 pu.sh
 pu020ev.com
 pu300ev.com
-pu4.biz
+
 pu5.biz
 puatraining.com
 pub.dev
@@ -96251,7 +96251,7 @@ service.biv.sony.tv
 service.cs.fsu.edu
 service.dellbackupandrecoverycloudstorage.com
 service.eu.newrelic.com
-service.game-mode.net
+
 service.marketing.adobe.com
 service.mentalfloss.com
 service.msicomputer.com
@@ -98557,7 +98557,7 @@ skillz.com
 skilouise.com
 skim-a-round.com
 skimble.com
-skimlinks.com
+
 skimresources.com
 skims.com
 skin.hackphoenix.com
@@ -99046,7 +99046,7 @@ smartlauncher.net
 smartletters.org
 smartlifestyletrends.com
 smartling.com
-smartlink.name
+
 smartlinks.intuit.com
 smartlinx6.com
 smartlock.google.com
@@ -100176,7 +100176,7 @@ sosyalbanka.net
 sosyalhalisaha.com
 sosyopix.com
 sotellus.com
-sotetahe.pro
+
 sotf.com
 sothebysrealty.ca
 soti.net
@@ -100572,7 +100572,7 @@ speeddemosarchive.com
 speeddial2.com
 speeddials.opera.com
 speedeedelivery.com
-speedergator.xyz
+
 speedetab.com
 speedguide.net
 speedhunters.api.oneall.com
@@ -124520,3 +124520,13 @@ zzounds.com
 zzshj.com
 zzz.ee
 zzztube.com
+ws-na.amazon-adsystem.com
+ws-eu.amazon-adsystem.com
+ws-in.amazon-adsystem.com
+ws-fe.amazon-adsystem.com
+jgsoft.com
+ptpimg.me
+2baksa.ws
+discourse.cloud
+home.opsfet.ch
+hotcarsimages.com
