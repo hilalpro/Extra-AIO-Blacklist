@@ -797,6 +797,7 @@
 @@||ooyala.com.akadns.net^
 @@||opinionstage.com^
 @@||opsen.dolphin-browser.com^
+@@||opsfet.ch^
 @@||optanon.blob.core.windows.net^
 @@||orinks-prence.com^
 @@||osb-eusvc.samsungqbe.com^
