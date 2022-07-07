@@ -1277,6 +1277,7 @@
 @@||z-p3-sonar.fdar1-1.fna.fbcdn.net^
 @@||zybrdr.com^
 @@||zyngawithfriends.com^
+@@||theepicbrowser.com^
 ||changes.api.autodesk.com^
 ||growth-pa.googleapis.com^
 ||in.appcenter.ms^
